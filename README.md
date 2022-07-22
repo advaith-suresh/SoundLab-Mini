@@ -12,3 +12,5 @@ The circuit is a combination of 7 sub-circuits
 7. Sample and Hold
 
 These sub-circuits are inter-connected to form complex sounds
+
+Schematics Folder contains schematics of each circuit
